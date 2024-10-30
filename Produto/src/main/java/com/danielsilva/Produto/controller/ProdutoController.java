@@ -1,5 +1,4 @@
 package com.danielsilva.Produto.controller;
-
 import com.danielsilva.Produto.model.ProdutoModel;
 import com.danielsilva.Produto.service.ProdutoService;
 import org.springframework.beans.factory.annotation.Autowired;
